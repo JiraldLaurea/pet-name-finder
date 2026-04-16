@@ -39,7 +39,7 @@ This project was built as part of a frontend test assessment.
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JiraldLaurea/pet-name-finder.git
 cd pet-name-finder
 ```
 
